@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-subnav{
+  padding-bottom: 20px;
+}
+
+.nav-item{
+  list-style: none;
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 20px;
+}
+
+.top-txt1{
+  width: 60%;
+  font-size: 20px;
+  padding-top: 20px;
+  margin: auto;
+}
+
+.top-txt2{
+  width: 50%;
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.emphasis{
+  font-size: 50px;
+  color: red;
+}
+
+.content{
+  padding: 40px 0;
+}
+
+.content-title{
+  border-bottom: 3px solid #87CEEB
+}
+
+.content-txt{
+  padding-top: 10px;
+}
+
+.top-bottom_txt{
+  padding-top: 50px;
+}
+.info{
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.info-txt{
+  text-align: left;
+  display: inline-block;
+}
+
+.map{
+  text-align: center;
+}
