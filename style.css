@@ -15,6 +15,15 @@
   border-radius: 20px;
 }
 
+.top-img{
+  width: 80%;
+  height: 400px;
+  background-image: url(img/default-image.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+}
+
 .top-txt1{
   width: 60%;
   font-size: 20px;
@@ -36,16 +45,41 @@
   color: red;
 }
 
-.content{
+.contents{
   padding: 40px 0;
 }
 
-.content-title{
-  border-bottom: 3px solid #87CEEB
+.contents-title{
+  border-bottom: 3px solid #87CEEB;
+}
+
+.contents-box{
+  padding-top: 10px;
+}
+
+.content{
+  padding: 5px 0 15px;
+}
+
+.fa-solid{
+  color: #87CEEB;
 }
 
 .content-txt{
-  padding-top: 10px;
+  padding: 5px 0 10px;
+}
+
+ol{
+  padding-left: 40px;
+}
+
+.schedule{
+  width: 60%;
+  height: 400px;
+  background-image: url(img/default-image.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: auto;
 }
 
 .top-bottom_txt{
