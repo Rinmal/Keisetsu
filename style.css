@@ -4,7 +4,16 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: #87CEEB !important;
+}
+
+.keisetsu{
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
 header{
+  background-color: #00BFFF;
   border-bottom: 1px solid #000;
 }
 
@@ -17,6 +26,7 @@ header{
   text-align: center;
   border: 1px solid #000;
   border-radius: 20px;
+  background-color: #fff;
 }
 
 .top-img{
@@ -35,6 +45,10 @@ header{
   margin: auto;
 }
 
+.top1{
+  font-size: 23px;
+}
+
 .top-txt2{
   width: 50%;
   font-size: 35px;
@@ -42,6 +56,10 @@ header{
   margin: auto;
   padding-top: 10px;
   padding-bottom: 50px;
+}
+
+.top2{
+  font-size: 38px;
 }
 
 .emphasis{
@@ -54,7 +72,11 @@ header{
 }
 
 .contents-title{
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #FF8C00;
+}
+
+.co-title{
+  font-size: 32px;
 }
 
 .contents-box{
@@ -65,8 +87,12 @@ header{
   padding: 5px 0 15px;
 }
 
+.txt{
+  font-size: 18px;
+}
+
 .fa-solid{
-  color: #000;
+  color: #FF8C00;
 }
 
 .content-txt{
